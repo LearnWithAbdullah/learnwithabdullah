@@ -2,7 +2,7 @@
 
 I'm Abdullah, a result-oriented Software Engineer 👨‍💻 experience in both Flutter and native Android development. Proficient in designing and implementing robust mobile app architectures while adhering to best practices and design patterns.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdullahmahmood125@gmail.com)](mailto:abdullahmahmood125@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mabdullahmahmood/)](https://www.linkedin.com/in/mabdullahmahmood/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@learnwithabdullah/)](https://medium.com/@learnwithabdullah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdullahmahmood125@gmail.com)](mailto:abdullahmahmood125@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mabdullahmahmood/)](https://www.linkedin.com/in/mabdullahmahmood/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@learnwithabdullah/)](https://medium.com/@learnwithabdullah/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/M125Abdullah)](https://twitter.com/M125Abdullah)
 
 - 🔭 I’m currently working on Flutter Apps
 - 🌱 I’m currently learning flutter
