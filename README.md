@@ -26,9 +26,3 @@ Result-oriented Software Engineer 👨‍💻 experience in both Flutter and Nat
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
-
-<div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=learnwithabdullah&count_private=true&show_icons=true&theme=prussian" width="400">
-<br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithabdullah&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</div>
