@@ -8,7 +8,7 @@ Result-oriented Software Engineer 👨‍💻 experience in both Flutter and Nat
 - 😄 Pronouns: he/him
 
 ### 🤝🏻  Connect with Me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdullahmahmood125@gmail.com)](mailto:abdullahmahmood125@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mabdullahmahmood/)](https://www.linkedin.com/in/mabdullahmahmood/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@learnwithabdullah/)](https://medium.com/@learnwithabdullah/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/M125Abdullah)](https://twitter.com/M125Abdullah)
+[![Gmail](https://img.shields.io/badge/abdullahmahmood125-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdullahmahmood125@gmail.com)](mailto:abdullahmahmood125@gmail.com) [![LinkedIn](https://img.shields.io/badge/Abdullah-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mabdullahmahmood/)](https://www.linkedin.com/in/mabdullahmahmood/) [![Medium](https://img.shields.io/badge/Abdullah-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@learnwithabdullah/)](https://medium.com/@learnwithabdullah/) [![X](https://img.shields.io/badge/Abdullah-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/M125Abdullah)](https://twitter.com/M125Abdullah)
 
 
 ### 🛠 Tech Stack:
