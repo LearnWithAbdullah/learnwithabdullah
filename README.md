@@ -7,12 +7,21 @@ Result-oriented Software Engineer 👨‍💻 experience in both Flutter and Nat
 - 💬 Ask me about: tech
 - 😄 Pronouns: he/him
 
-### 🤝🏻  Connect with Me
+### 🤝🏻  Connect with Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abdullahmahmood125@gmail.com)](mailto:abdullahmahmood125@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mabdullahmahmood/)](https://www.linkedin.com/in/mabdullahmahmood/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@learnwithabdullah/)](https://medium.com/@learnwithabdullah/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/M125Abdullah)](https://twitter.com/M125Abdullah)
 
 
-#### Languages:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+### 🛠 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnwithabdullah&count_private=true&show_icons=true&theme=prussian" width="400">
 <br />
