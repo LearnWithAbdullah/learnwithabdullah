@@ -8,7 +8,10 @@ I'm Abdullah, a result-oriented Software Engineer 👨‍💻 experience in both
 - 🌱 I’m currently learning flutter
 - 💬 Ask me about: tech
 - 😄 Pronouns: he/him
--  ⚡ Languages: Dart, Java, Kotlin, Swift
+
+#### Languages:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=learnwithabdullah&count_private=true&show_icons=true&theme=prussian" width="400">
