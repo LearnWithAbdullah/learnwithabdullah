@@ -2,7 +2,7 @@
 
 Result-oriented Software Engineer 👨‍💻 experience in both Flutter and Native Android development. Proficient in designing and implementing robust mobile app architectures while adhering to best practices and design patterns.
 
-- 🔭 I’m currently working on Flutter Apps
+- 🔭 I’m currently working on Mobile Apps
 - 🌱 I’m currently learning flutter
 - 💬 Ask me about: tech
 - 😄 Pronouns: he/him
