@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdullah 👋
 
-Result-oriented Software Engineer 👨‍💻 experience in both Flutter and Native Android development. Proficient in designing and implementing robust mobile app architectures while adhering to best practices and design patterns.
+Result-oriented Software Engineer 👨‍💻 experience in mobile application development. Proficient in designing and implementing robust mobile app architectures while adhering to best practices and design patterns.
 
 - 🔭 I’m currently working on Mobile Apps
 - 🌱 I’m currently learning flutter
